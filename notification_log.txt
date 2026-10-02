@@ -1,0 +1,2 @@
+2026-09-28 21:36:30 - Order #6 notifications: Email=FAIL, WhatsApp=FAIL
+2026-09-28 22:00:05 - Order #7: AdminEmail=FAIL, CustomerEmail=FAIL
